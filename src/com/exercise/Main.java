@@ -217,6 +217,8 @@ public class Main {
 
 //        Me.primeInRange(1,50);
 
+        Array.main(args);
+
     }
 
     public static void favouriteNumber(){
